@@ -7,3 +7,6 @@ Næst tók ég millistykki til að knýja arduino, þar þurfti að tengja svart
 
 Þá fór ég að setja saman box og líma innihald leiksins þar
 ![https://github.com/NITEOFF/vesm1-simonsays-/blob/main/IMG_7044.jpg](https://github.com/NITEOFF/vesm1-simonsays-/blob/main/IMG_7044.jpg)
+
+I lokinn litur kassinn svona, en blár takki virkar ekki út af tengigu
+![https://github.com/NITEOFF/vesm1-simonsays-/blob/main/IMG_7074.jpg](https://github.com/NITEOFF/vesm1-simonsays-/blob/main/IMG_7074.jpg)
